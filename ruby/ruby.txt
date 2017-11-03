@@ -1,0 +1,4 @@
+List of Ruby Katas
+
+8 kyu
+Fake Binary
