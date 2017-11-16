@@ -10,3 +10,5 @@ def pig_it(text)
   end
   text.join(" ")
 end
+
+pig_it('Pig latin is cool ?')
